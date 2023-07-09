@@ -1,18 +1,18 @@
-import StarterKit from "@tiptap/starter-kit";
-import HorizontalRule from "@tiptap/extension-horizontal-rule";
-import TiptapLink from "@tiptap/extension-link";
-import TiptapImage from "@tiptap/extension-image";
-import Placeholder from "@tiptap/extension-placeholder";
-import TiptapUnderline from "@tiptap/extension-underline";
-import TextStyle from "@tiptap/extension-text-style";
 import { Color } from "@tiptap/extension-color";
-import TaskItem from "@tiptap/extension-task-item";
-import TaskList from "@tiptap/extension-task-list";
 import { Markdown } from "tiptap-markdown";
 import Highlight from "@tiptap/extension-highlight";
+import HorizontalRule from "@tiptap/extension-horizontal-rule";
+import Placeholder from "@tiptap/extension-placeholder";
+import StarterKit from "@tiptap/starter-kit";
+import TaskItem from "@tiptap/extension-task-item";
+import TaskList from "@tiptap/extension-task-list";
+import TextStyle from "@tiptap/extension-text-style";
+import TiptapImage from "@tiptap/extension-image";
+import TiptapLink from "@tiptap/extension-link";
+import TiptapUnderline from "@tiptap/extension-underline";
 
-import SlashCommand from "./slash-command";
 import { InputRule } from "@tiptap/core";
+import SlashCommand from "@/ui/editor/extensions/slash-command";
 import UploadImagesPlugin from "@/ui/editor/plugins/upload-images";
 
 const CustomImage = TiptapImage.extend({

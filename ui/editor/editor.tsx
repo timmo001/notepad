@@ -1,8 +1,7 @@
 "use client";
-
 import { useEditor, EditorContent } from "@tiptap/react";
 
-import { TiptapExtensions } from "./extensions";
+import { TiptapExtensions } from "@/ui/editor/extensions";
 
 export default function Editor() {
   const editor = useEditor({
