@@ -1,5 +1,6 @@
-import localFont from "next/font/local";
+import { ClassValue } from "clsx";
 import { Crimson_Text, Inconsolata, Inter } from "next/font/google";
+import localFont from "next/font/local";
 
 export const cal = localFont({
   src: "./CalSans-SemiBold.otf",
@@ -34,13 +35,13 @@ export const inconsolata = Inconsolata({
   subsets: ["latin"],
 });
 
-export const displayFontMapper = {
+export const displayFontMapper: { [key: string]: ClassValue } = {
   Default: cal.variable,
   Serif: crimsonBold.variable,
   Mono: inconsolataBold.variable,
 };
 
-export const defaultFontMapper = {
+export const defaultFontMapper: { [key: string]: ClassValue } = {
   Default: inter.variable,
   Serif: crimson.variable,
   Mono: inconsolata.variable,
