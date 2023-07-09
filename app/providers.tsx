@@ -19,6 +19,18 @@ export const AppContext = createContext<{
 export default function Providers({ children }: { children: ReactNode }) {
   const [font, setFont] = useLocalStorage<string>("notepad__font", "Default");
 
+  const displayFontMapper: { [key: string]: string } = {
+    Default: "",
+    Serif: "font-serif",
+    Mono: "font-mono",
+  };
+
+  const defaultFontMapper: { [key: string]: string } = {
+    Default: "font-sans",
+    Serif: "font-serif",
+    Mono: "font-mono",
+  };
+
   return (
     <ThemeProvider
       attribute="class"
@@ -30,7 +42,7 @@ export default function Providers({ children }: { children: ReactNode }) {
       <AppContext.Provider
         value={{
           font,
-          setFont,
+          setFont: setFont as Dispatch<SetStateAction<string>>,
         }}
       >
         <Toaster className="dark:hidden" />
