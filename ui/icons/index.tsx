@@ -1,3 +1,3 @@
-export { default as FontDefault } from './font-default'
-export { default as FontSerif } from './font-serif'
-export { default as FontMono } from './font-mono'
+export { default as FontDefault } from "@/ui/icons/font-default";
+export { default as FontMono } from "@/ui/icons/font-mono";
+export { default as FontSerif } from "@/ui/icons/font-serif";

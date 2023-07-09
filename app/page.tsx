@@ -5,7 +5,6 @@ import Menu from "@/app/menu";
 export default function Page() {
   return (
     <div className="flex min-h-screen flex-col items-center sm:px-5 sm:pt-[calc(20vh)]">
-      <Menu />
       <a
         href="/github"
         target="_blank"
@@ -13,6 +12,7 @@ export default function Page() {
       >
         <Github />
       </a>
+      <Menu />
       <Editor />
     </div>
   );

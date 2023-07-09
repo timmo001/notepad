@@ -24,6 +24,7 @@ const fonts = [
     icon: <FontMono className="h-4 w-4" />,
   },
 ];
+
 const appearances = [
   {
     theme: "System",
