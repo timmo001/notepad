@@ -1,0 +1,11 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^contact@timmo"
+    },
+    {
+      "pattern": "https://notepad.timmo.dev"
+    }
+  ],
+  "retryOn429": true
+}
