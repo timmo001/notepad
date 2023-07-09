@@ -4,7 +4,7 @@ import { Editor } from "@tiptap/core";
 
 export interface BubbleColorMenuItem {
   name: string;
-  color: string | null;
+  color: string;
 }
 
 interface ColorSelectorProps {
@@ -113,8 +113,8 @@ export const ColorSelector: FC<ColorSelectorProps> = ({
         <span
           className="rounded-sm px-1"
           style={{
-            color: activeColorItem?.color,
-            backgroundColor: activeHighlightItem?.color,
+            color: activeColorItem?.color || undefined,
+            backgroundColor: activeHighlightItem?.color || undefined,
           }}
         >
           A
