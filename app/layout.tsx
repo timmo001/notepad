@@ -6,9 +6,9 @@ import { ReactNode } from "react";
 import Providers from "./providers";
 
 const title =
-  "Novel – Notion-style WYSIWYG editor with AI-powered autocompletions";
+  "Notepad - An AI powered notepad.";
 const description =
-  "Novel is a Notion-style WYSIWYG editor with AI-powered autocompletions. Built with Tiptap, OpenAI, and Vercel AI SDK.";
+  "An AI powered notepad. Start typing to get started. Use / for commands and ++ for autocompletion.";
 
 export const metadata: Metadata = {
   title,
@@ -21,9 +21,9 @@ export const metadata: Metadata = {
     title,
     description,
     card: "summary_large_image",
-    creator: "@steventey",
+    creator: "@timmo001",
   },
-  metadataBase: new URL("https://novel.sh"),
+  metadataBase: new URL("https://notepad.timmo.dev"),
   themeColor: "#ffffff",
 };
 

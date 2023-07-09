@@ -257,7 +257,7 @@ const CommandList = ({
   const [selectedIndex, setSelectedIndex] = useState(0);
 
   const { complete, isLoading } = useCompletion({
-    id: "novel",
+    id: "notepad",
     api: "/api/generate",
     onResponse: (response) => {
       if (response.status === 429) {

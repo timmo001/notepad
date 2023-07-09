@@ -23,7 +23,7 @@ export async function POST(req: Request): Promise<Response> {
     });
 
     const { success, limit, reset, remaining } = await ratelimit.limit(
-      `novel_ratelimit_${ip}`,
+      `notepad_ratelimit_${ip}`,
     );
 
     if (!success) {

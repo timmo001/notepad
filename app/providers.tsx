@@ -17,7 +17,7 @@ export const AppContext = createContext<{
 });
 
 export default function Providers({ children }: { children: ReactNode }) {
-  const [font, setFont] = useLocalStorage<string>("novel__font", "Default");
+  const [font, setFont] = useLocalStorage<string>("notepad__font", "Default");
 
   return (
     <ThemeProvider

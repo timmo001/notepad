@@ -16,7 +16,7 @@ interface ColorSelectorProps {
 const TEXT_COLORS: BubbleColorMenuItem[] = [
   {
     name: "Default",
-    color: "var(--novel-black)",
+    color: "var(--notepad-black)",
   },
   {
     name: "Purple",
@@ -55,39 +55,39 @@ const TEXT_COLORS: BubbleColorMenuItem[] = [
 const HIGHLIGHT_COLORS: BubbleColorMenuItem[] = [
   {
     name: "Default",
-    color: "var(--novel-highlight-default)",
+    color: "var(--notepad-highlight-default)",
   },
   {
     name: "Purple",
-    color: "var(--novel-highlight-purple)",
+    color: "var(--notepad-highlight-purple)",
   },
   {
     name: "Red",
-    color: "var(--novel-highlight-red)",
+    color: "var(--notepad-highlight-red)",
   },
   {
     name: "Yellow",
-    color: "var(--novel-highlight-yellow)",
+    color: "var(--notepad-highlight-yellow)",
   },
   {
     name: "Blue",
-    color: "var(--novel-highlight-blue)",
+    color: "var(--notepad-highlight-blue)",
   },
   {
     name: "Green",
-    color: "var(--novel-highlight-green)",
+    color: "var(--notepad-highlight-green)",
   },
   {
     name: "Orange",
-    color: "var(--novel-highlight-orange)",
+    color: "var(--notepad-highlight-orange)",
   },
   {
     name: "Pink",
-    color: "var(--novel-highlight-pink)",
+    color: "var(--notepad-highlight-pink)",
   },
   {
     name: "Gray",
-    color: "var(--novel-highlight-gray)",
+    color: "var(--notepad-highlight-gray)",
   },
 ];
 

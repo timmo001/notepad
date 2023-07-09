@@ -61,7 +61,7 @@ export default function Editor() {
   });
 
   const { complete, completion, isLoading, stop } = useCompletion({
-    id: "novel",
+    id: "notepad",
     api: "/api/generate",
     onFinish: (_prompt, completion) => {
       editor?.commands.setTextSelection({
