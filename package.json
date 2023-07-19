@@ -39,7 +39,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "sonner": "0.6.2",
-    "tailwind-merge": "1.13.2",
+    "tailwind-merge": "1.14.0",
     "tiptap-markdown": "0.8.1",
     "use-debounce": "9.0.4"
   },
