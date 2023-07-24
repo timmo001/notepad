@@ -3334,10 +3334,10 @@ open@^9.1.0:
     is-inside-container "^1.0.0"
     is-wsl "^2.2.0"
 
-openai-edge@1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/openai-edge/-/openai-edge-1.2.1.tgz#db1497078b986a06ab66b1a8cde351b17125c1d4"
-  integrity sha512-3PycifhW/MR3poGhvthYppbZ5M/q2R/Vkv+JE6AjaeZ5jZvE0RClRLsolte/7TG45lrm/g6RRE1WXQjdK21ZhA==
+openai-edge@1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/openai-edge/-/openai-edge-1.2.2.tgz#0b1cd5aec2c366bbd25cdeba05399aa6eef73230"
+  integrity sha512-C3/Ao9Hkx5uBPv9YFBpX/x59XMPgPUU4dyGg/0J2sOJ7O9D98kD+lfdOc7v/60oYo5xzMGct80uFkYLH+X2qgw==
 
 optionator@^0.9.3:
   version "0.9.3"
