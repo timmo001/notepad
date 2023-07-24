@@ -3605,7 +3605,7 @@ prosemirror-keymap@^1.0.0, prosemirror-keymap@^1.1.2, prosemirror-keymap@^1.2.0:
     prosemirror-state "^1.0.0"
     w3c-keyname "^2.2.0"
 
-prosemirror-markdown@^1.10.1, prosemirror-markdown@^1.11.0:
+prosemirror-markdown@^1.10.1, prosemirror-markdown@^1.11.1:
   version "1.11.1"
   resolved "https://registry.yarnpkg.com/prosemirror-markdown/-/prosemirror-markdown-1.11.1.tgz#441ad0ac4ab7c30f50623517e65c6bb8e966e9e3"
   integrity sha512-CLOieKoaSSEusKyYcXIj8v2qHGLW+tnuffci+8678Sen48NEFQE7M3o0Nx0gj9v63iVDj+yLibj2gCe8eb3jIw==
@@ -4190,15 +4190,15 @@ tippy.js@^6.3.7:
   dependencies:
     "@popperjs/core" "^2.9.0"
 
-tiptap-markdown@0.8.1:
-  version "0.8.1"
-  resolved "https://registry.yarnpkg.com/tiptap-markdown/-/tiptap-markdown-0.8.1.tgz#912302f5de086d39022ae426df00eda1fc67a285"
-  integrity sha512-4bg6UHXF+1cIJHcAkcWd0d8zIweCvdIAY2dJjhm/e5oNWprP3gLUYa4aNAEFOKpD/Wh4VBqA7vi7yMj5vIy6xw==
+tiptap-markdown@0.8.2:
+  version "0.8.2"
+  resolved "https://registry.yarnpkg.com/tiptap-markdown/-/tiptap-markdown-0.8.2.tgz#93d42ef6225042d8bfe77861b93450aab184d67b"
+  integrity sha512-RyfpnH475+FYVh1fCiWF9+wBvA8T6X3PqxZR1MApEewxkoQ5kREQFiVwjZiez9qUQk/Bxu3RerFSJot65V6cbQ==
   dependencies:
     "@types/markdown-it" "^12.2.3"
     markdown-it "^13.0.1"
     markdown-it-task-lists "^2.1.1"
-    prosemirror-markdown "^1.11.0"
+    prosemirror-markdown "^1.11.1"
 
 titleize@^3.0.0:
   version "3.0.0"
