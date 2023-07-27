@@ -31,7 +31,7 @@
     "@vercel/kv": "0.2.2",
     "ai": "2.1.26",
     "clsx": "2.0.0",
-    "framer-motion": "10.13.1",
+    "framer-motion": "10.13.2",
     "lucide-react": "0.263.1",
     "next": "13.4.12",
     "next-themes": "0.2.1",
