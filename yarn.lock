@@ -949,10 +949,10 @@
   resolved "https://registry.yarnpkg.com/@tiptap/extension-strike/-/extension-strike-2.0.4.tgz#13286dcf8780c55610ed65b24238b8395a5be824"
   integrity sha512-Men7LK6N/Dh3/G4/z2Z9WkDHM2Gxx1XyxYix2ZMf5CnqY37SeDNUnGDqit65pdIN3Y/TQnOZTkKSBilSAtXfJA==
 
-"@tiptap/extension-task-item@2.0.4":
-  version "2.0.4"
-  resolved "https://registry.yarnpkg.com/@tiptap/extension-task-item/-/extension-task-item-2.0.4.tgz#71f46d35ac629ca10c5c23d4ad170007338a436e"
-  integrity sha512-0FfYWrOslDzzN7Ehnt3yBekOSH45tiB/3gzFRvGdLBUv0PiYQolUpyfHGsdNzeKYuWLF1yiacJkCeLgNDgCLDw==
+"@tiptap/extension-task-item@2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@tiptap/extension-task-item/-/extension-task-item-2.1.0.tgz#4f42bda367b1fc67566dbfdd74e3f912ed51403c"
+  integrity sha512-FgLTI3W3d78x2gvi2X/BxFlgyDJZRzVuNcfGeOB8HaHIMTmgl93sFgCKRcB5fpcLbrFK+enGOEtb46AewaGJVQ==
 
 "@tiptap/extension-task-list@2.1.0":
   version "2.1.0"
