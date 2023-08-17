@@ -22,7 +22,7 @@
     "@tiptap/extension-text-style": "2.1.1",
     "@tiptap/extension-underline": "2.1.0",
     "@tiptap/pm": "2.0.4",
-    "@tiptap/react": "2.0.4",
+    "@tiptap/react": "2.1.1",
     "@tiptap/starter-kit": "2.0.4",
     "@tiptap/suggestion": "2.0.4",
     "@upstash/ratelimit": "0.4.3",
