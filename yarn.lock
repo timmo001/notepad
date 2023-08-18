@@ -855,10 +855,10 @@
   resolved "https://registry.yarnpkg.com/@tiptap/extension-code/-/extension-code-2.0.4.tgz#6952d402e7372dd2d129e962bf9bd54d68ee6183"
   integrity sha512-HuwJSJkipZf4hkns9witv1CABNIPiB9C8lgAQXK4xJKcoUQChcnljEL+PQ2NqeEeMTEeV3nG3A/0QafH0pgTgg==
 
-"@tiptap/extension-color@2.0.4":
-  version "2.0.4"
-  resolved "https://registry.yarnpkg.com/@tiptap/extension-color/-/extension-color-2.0.4.tgz#564265c2bcadd268e6b5745d2a06571744cb4090"
-  integrity sha512-7Eb5Gk9v3sj2i1Q8dfqmpnc5aDPC/t0ZEsSLRi4C6SNo1nBeUxteXzpzxWwYjTvK+Um40STR89Z6PY14FIYXSA==
+"@tiptap/extension-color@2.1.3":
+  version "2.1.3"
+  resolved "https://registry.yarnpkg.com/@tiptap/extension-color/-/extension-color-2.1.3.tgz#1a9d9a25ccb4959a354703958df0e6f3ea01540c"
+  integrity sha512-qz5GWREsOdvcarOjiCtTWdcqIN3bTQr9xiqMl4JBxdtAJux+J6bt9cJo41XMli1Budu6VVDZILlZ72pbOWbqWA==
 
 "@tiptap/extension-document@^2.0.4":
   version "2.0.4"
