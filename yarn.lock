@@ -959,10 +959,10 @@
   resolved "https://registry.yarnpkg.com/@tiptap/extension-task-list/-/extension-task-list-2.1.3.tgz#9ce0fb082cc2552842f628b54193dc218e9ee255"
   integrity sha512-PdznOrwDo4AScBfqbMpYg+QO88+OJSqxTNxbnCAz5xi/ZZpPCrZixJ/RrgckkXKBVTtd1tYS5kmji+cyYmxx4g==
 
-"@tiptap/extension-text-style@2.1.1":
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/@tiptap/extension-text-style/-/extension-text-style-2.1.1.tgz#4aae84c5c02728ae21f25a831f155b6830cb86bf"
-  integrity sha512-P+t+EleZzF5dAP4aBZ7TSVbR6rzKk2fUCAKZGWclE/28wCTbScf8TA2uzH1QdTZ/AY3h2OBwUclPqp2kJ9ldNQ==
+"@tiptap/extension-text-style@2.1.3":
+  version "2.1.3"
+  resolved "https://registry.yarnpkg.com/@tiptap/extension-text-style/-/extension-text-style-2.1.3.tgz#4978e6a49481918b38571b65152c8ea1953053a9"
+  integrity sha512-0el1ZK+iUhKjbfA+rr3kep3RqHzbAua9bQU33lMsSKjLYrzxIuOO4/23ZlD7ZK++eMNrW7WjjH2LSlUss7fgVQ==
 
 "@tiptap/extension-text@^2.0.4":
   version "2.0.4"
