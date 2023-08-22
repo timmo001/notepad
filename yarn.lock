@@ -1320,10 +1320,10 @@ agentkeepalive@^4.2.1:
   dependencies:
     humanize-ms "^1.2.1"
 
-ai@2.2.6:
-  version "2.2.6"
-  resolved "https://registry.yarnpkg.com/ai/-/ai-2.2.6.tgz#f49797757151377f465a9edddbed8ff34e45104b"
-  integrity sha512-L67pEMOrvM6qUbNc3LfWwq9BIhsrMfVE7uKBOvNt82/b7xXND3Mu9QGMGfYnkcL0zQjL7KqYdMEgnQcL2XrLHQ==
+ai@2.2.7:
+  version "2.2.7"
+  resolved "https://registry.yarnpkg.com/ai/-/ai-2.2.7.tgz#689e2a2a6f5b92d7d954ad5f3a93081fce75ee71"
+  integrity sha512-rURQDSFhVHg7obYZ94+yMTg1322j9DhbCIJt4cHFRtTPLLsvQJFTx//B4DhsOHvBZQVSyggSy1CAQPccaFYzhw==
   dependencies:
     eventsource-parser "1.0.0"
     nanoid "3.3.6"
