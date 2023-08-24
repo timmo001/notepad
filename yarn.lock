@@ -969,10 +969,10 @@
   resolved "https://registry.yarnpkg.com/@tiptap/extension-text/-/extension-text-2.1.6.tgz#23f36114ee164e3da2fd326145ac7b7f8bd34c56"
   integrity sha512-CqV0N6ngoXZFeJGlQ86FSZJ/0k7+BN3S6aSUcb5DRAKsSEv/Ga1LvSG24sHy+dwjTuj3EtRPJSVZTFcSB17ZSA==
 
-"@tiptap/extension-underline@2.1.6":
-  version "2.1.6"
-  resolved "https://registry.yarnpkg.com/@tiptap/extension-underline/-/extension-underline-2.1.6.tgz#e86ff1fe9d4b449ab376e3e26e5f43c04311298a"
-  integrity sha512-3yBCTzqYsmUfffhDJ+8MFyRy0nUcv9dffPt0bnmXsOqUIG4rMFIGrGY/hspzX6dw9Pn4htA4lBQCB64LT+GTqw==
+"@tiptap/extension-underline@2.1.7":
+  version "2.1.7"
+  resolved "https://registry.yarnpkg.com/@tiptap/extension-underline/-/extension-underline-2.1.7.tgz#ab815645770f7d2013ac69327975837b4937c8df"
+  integrity sha512-mL95afyEJvg+C2yrTVn7QltfyE9ja1+94+OUkRBbB8PN3N6HvfSL4K/QSqecOLQ38bSQm/6ZGPkBLDkDGhGPdw==
 
 "@tiptap/pm@2.1.6":
   version "2.1.6"
