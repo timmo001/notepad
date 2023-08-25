@@ -1320,14 +1320,14 @@ agentkeepalive@^4.2.1:
   dependencies:
     humanize-ms "^1.2.1"
 
-ai@2.2.8:
-  version "2.2.8"
-  resolved "https://registry.yarnpkg.com/ai/-/ai-2.2.8.tgz#023ebba123ab91b322f46044eb899b225ae86ca3"
-  integrity sha512-DzMqqXnKqcVlngznYwfyU/Z8ljpiaXCXlKVhkEVOkEpVEHN8K9eWgldhG7IavyFQjEpC+R2rnkXLEsrxV+yXcw==
+ai@2.2.9:
+  version "2.2.9"
+  resolved "https://registry.yarnpkg.com/ai/-/ai-2.2.9.tgz#7b80b3225f96566e566dc34b8ace92f1ecd8c445"
+  integrity sha512-Z6xN0rNiONWRggmSy6BVNiF4sH1MNcqltvBLML7qEjLN+qMO2lXhMHZRpc6ByVAd1nKMGyol0W2QWZP/qKbIoQ==
   dependencies:
     eventsource-parser "1.0.0"
     nanoid "3.3.6"
-    openai "4.0.0"
+    openai "4.2.0"
     solid-swr-store "0.10.7"
     sswr "2.0.0"
     swr "2.2.0"
@@ -3451,10 +3451,10 @@ openai-edge@1.2.2:
   resolved "https://registry.yarnpkg.com/openai-edge/-/openai-edge-1.2.2.tgz#0b1cd5aec2c366bbd25cdeba05399aa6eef73230"
   integrity sha512-C3/Ao9Hkx5uBPv9YFBpX/x59XMPgPUU4dyGg/0J2sOJ7O9D98kD+lfdOc7v/60oYo5xzMGct80uFkYLH+X2qgw==
 
-openai@4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/openai/-/openai-4.0.0.tgz#d3fc2288ffe97ddf3ae9f89bdaa1ec75657e4fd5"
-  integrity sha512-UHv70gIw20pxu9tiUueE9iS+4U4eTGiTgQr+zlJ5aX4oj6LUUp+7mBn0xAqilawftwUB/biohPth2vcZFmoNYw==
+openai@4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/openai/-/openai-4.2.0.tgz#ccaef83bccad50041dd3e733e231b0c38f889b99"
+  integrity sha512-zfvpO2eITIxIjTG8T6Cek7NB2dMvP/LW0TRUJ4P9E8+qbBNKw00DrtfF64b+fAV2+wUYCVyynT6iSycJ//TtbA==
   dependencies:
     "@types/node" "^18.11.18"
     "@types/node-fetch" "^2.6.4"
