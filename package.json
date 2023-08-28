@@ -29,7 +29,7 @@
     "@vercel/analytics": "1.0.2",
     "@vercel/blob": "0.9.3",
     "@vercel/kv": "0.2.2",
-    "ai": "2.2.9",
+    "ai": "2.2.10",
     "clsx": "2.0.0",
     "framer-motion": "10.16.1",
     "lucide-react": "0.269.0",
