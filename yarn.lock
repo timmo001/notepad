@@ -1031,10 +1031,10 @@
     "@tiptap/extension-strike" "^2.1.7"
     "@tiptap/extension-text" "^2.1.7"
 
-"@tiptap/suggestion@2.1.7":
-  version "2.1.7"
-  resolved "https://registry.yarnpkg.com/@tiptap/suggestion/-/suggestion-2.1.7.tgz#ac88deef2ade8d836ca9084c276cc9d64c6e604a"
-  integrity sha512-FKlXFMWf9rCnNJQsUfeX6WpS2VUs2O98ENkyhfV8ehCB7X5+57mkkxJxl/88SMbjZL+FbWPBKLaiOvsXfIUoww==
+"@tiptap/suggestion@2.1.8":
+  version "2.1.8"
+  resolved "https://registry.yarnpkg.com/@tiptap/suggestion/-/suggestion-2.1.8.tgz#ffd61c13aa11c4b51e50a9c83f0813f71ab0881b"
+  integrity sha512-3QypKFCeZSRrjgSz0n0JE5SimisolaxDZn45GGtkXuJWmKGCmsJw9UsXeH3S9ZuP3pvPImL0P9uAHlhRReRw1w==
 
 "@tootallnate/once@2":
   version "2.0.0"
