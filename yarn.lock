@@ -902,10 +902,10 @@
   resolved "https://registry.yarnpkg.com/@tiptap/extension-history/-/extension-history-2.1.8.tgz#68a65b51effc1d612e3862928c3ccede3ce83592"
   integrity sha512-Cyq4YsmosfgHGlaf2wiiU8VaLweUMG8LHuhZ5A2RAoriy3G09Bqgn6eqLmho8KoU1VgvffXTVBaYKxz9gVgu3w==
 
-"@tiptap/extension-horizontal-rule@2.1.8", "@tiptap/extension-horizontal-rule@^2.1.8":
-  version "2.1.8"
-  resolved "https://registry.yarnpkg.com/@tiptap/extension-horizontal-rule/-/extension-horizontal-rule-2.1.8.tgz#db23468176fd5359240feb8601fd3fcf747d5e6d"
-  integrity sha512-qUNz8p/p3gth0ueYFkmMdVRcRVmtCwQGJsHWwbx23XrF/a7AJ0FSdiW0sk8YD6Dbw+i1cB3cnRyO+qq9XuWdqw==
+"@tiptap/extension-horizontal-rule@2.1.10", "@tiptap/extension-horizontal-rule@^2.1.8":
+  version "2.1.10"
+  resolved "https://registry.yarnpkg.com/@tiptap/extension-horizontal-rule/-/extension-horizontal-rule-2.1.10.tgz#cfdb67530be100054fc8511942d4ec3534acf828"
+  integrity sha512-91lGpK2d6WMPhrMDPBURS8z8pEg1CUBYy7GmBenKvvgh+JzVhG+U6MtykfWNfm2R4iRXOl1xLbyUOCiOSUXodQ==
 
 "@tiptap/extension-image@2.1.8":
   version "2.1.8"
