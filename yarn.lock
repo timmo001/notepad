@@ -1232,14 +1232,7 @@
   dependencies:
     "@upstash/core-analytics" "^0.0.6"
 
-"@upstash/redis@1.21.0":
-  version "1.21.0"
-  resolved "https://registry.yarnpkg.com/@upstash/redis/-/redis-1.21.0.tgz#a1096f096800032d65b5d819aa2c60af3011b9e8"
-  integrity sha512-c6M+cl0LOgGK/7Gp6ooMkIZ1IDAJs8zFR+REPkoSkAq38o7CWFX5FYwYEqGZ6wJpUGBuEOr/7hTmippXGgL25A==
-  dependencies:
-    isomorphic-fetch "^3.0.0"
-
-"@upstash/redis@^1.19.3":
+"@upstash/redis@1.22.0", "@upstash/redis@^1.19.3":
   version "1.22.0"
   resolved "https://registry.yarnpkg.com/@upstash/redis/-/redis-1.22.0.tgz#3ae3ef056608c8598f46e8bc3b3f405a94781142"
   integrity sha512-sXoJDoEqqik0HbrNE7yRWckOySEFsoBxfRdCgOqkc0w6py19ZZG50SpGkDDEUXSnBqP8VgGYXhWAiBpqxrt5oA==
@@ -1259,12 +1252,12 @@
     jest-environment-jsdom "29.6.1"
     undici "5.22.1"
 
-"@vercel/kv@0.2.2":
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/@vercel/kv/-/kv-0.2.2.tgz#4b01c2bfd0aad674598b4d89a38a9454fa945a15"
-  integrity sha512-mqnQOB6bkp4h5eObxfLNIlhlVqOGSH8cWOlC5pDVWTjX3zL8dETO1ZBl6M74HBmeBjbD5+J7wDJklRigY6UNKw==
+"@vercel/kv@0.2.3":
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/@vercel/kv/-/kv-0.2.3.tgz#182419a8e44fcc7ff1638522f8d79a1846d99795"
+  integrity sha512-Wq1+EsRBQmvLlcqCZeYVg1MAARWrnETgLe3Sy3UCqG+zg7LThpkt0YHZe1NN3Aj4IRmCKQamotWrLDdEx+ZB3w==
   dependencies:
-    "@upstash/redis" "1.21.0"
+    "@upstash/redis" "1.22.0"
 
 abab@^2.0.6:
   version "2.0.6"
