@@ -4064,10 +4064,10 @@ solid-swr-store@0.10.7:
   resolved "https://registry.yarnpkg.com/solid-swr-store/-/solid-swr-store-0.10.7.tgz#9511308f01250a1509efbfaad5b481be7517e436"
   integrity sha512-A6d68aJmRP471aWqKKPE2tpgOiR5fH4qXQNfKIec+Vap+MGQm3tvXlT8n0I8UgJSlNAsSAUuw2VTviH2h3Vv5g==
 
-sonner@0.7.3:
-  version "0.7.3"
-  resolved "https://registry.yarnpkg.com/sonner/-/sonner-0.7.3.tgz#583307001d2b7f0796bc119a649bd1bd125c5ea1"
-  integrity sha512-DIiD/JiMV1WI0A9uaPjhf/U6PxliZisVx8xWC87FWCyHhKjnd/8S9GMJTfgyhHzp/ABqUpu0nD4amDxFmw9xiw==
+sonner@1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/sonner/-/sonner-1.0.2.tgz#728e54b0757c43cd8bc340ea94bbd5bb17bef7c6"
+  integrity sha512-m3TtUKKw3sY5gv9YdKrJxxueLbk/6OPlb2hmfsRk2DHnoTMRO7A/2/RGI174rmKhSAWJbVH61tW3B+QdDIu0gg==
 
 source-map-js@^1.0.2:
   version "1.0.2"
