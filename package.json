@@ -23,7 +23,7 @@
     "@tiptap/extension-underline": "2.1.11",
     "@tiptap/pm": "2.1.11",
     "@tiptap/react": "2.1.10",
-    "@tiptap/starter-kit": "2.1.10",
+    "@tiptap/starter-kit": "2.1.11",
     "@tiptap/suggestion": "2.1.10",
     "@upstash/ratelimit": "0.4.4",
     "@vercel/analytics": "1.0.2",
