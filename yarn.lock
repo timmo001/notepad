@@ -4512,10 +4512,10 @@ tippy.js@^6.3.7:
   dependencies:
     "@popperjs/core" "^2.9.0"
 
-tiptap-markdown@0.8.2:
-  version "0.8.2"
-  resolved "https://registry.yarnpkg.com/tiptap-markdown/-/tiptap-markdown-0.8.2.tgz#93d42ef6225042d8bfe77861b93450aab184d67b"
-  integrity sha512-RyfpnH475+FYVh1fCiWF9+wBvA8T6X3PqxZR1MApEewxkoQ5kREQFiVwjZiez9qUQk/Bxu3RerFSJot65V6cbQ==
+tiptap-markdown@0.8.3:
+  version "0.8.3"
+  resolved "https://registry.yarnpkg.com/tiptap-markdown/-/tiptap-markdown-0.8.3.tgz#51e93aad3c603c75a91111494ef4fd04115165fe"
+  integrity sha512-RULu1OXFTHdTJCHwdUOvDk0nDoH8YdgXulR0f+8XBd/x+SuT+EafdQuEKz2ggFlW1Mvl5niKGT5lAHTeXYFmaw==
   dependencies:
     "@types/markdown-it" "^12.2.3"
     markdown-it "^13.0.1"
