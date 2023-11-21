@@ -1348,10 +1348,10 @@ agent-base@6:
   dependencies:
     debug "4"
 
-ai@2.2.24:
-  version "2.2.24"
-  resolved "https://registry.yarnpkg.com/ai/-/ai-2.2.24.tgz#9ecadc26e9fab6b515f1032590a1e85ecb2bc791"
-  integrity sha512-j9f89SC08SxN50wKp4ccIGniUMtCsslvOBbYGBCSIvDbMBQaNTZuKW4Id8tmfEeNMV9mwZZ5wRNj6/1Z/pFwYA==
+ai@2.2.25:
+  version "2.2.25"
+  resolved "https://registry.yarnpkg.com/ai/-/ai-2.2.25.tgz#c622f3716c3d621f9143a4a111a01db3a47d0950"
+  integrity sha512-iXu3pzPpDPBGDir8hz86FAJmJTynMfBH4V/DXyR3GGeaHOfjdrErlcMm862CSalR6PDMwDOSCQVwJqtdnvIncQ==
   dependencies:
     eventsource-parser "1.0.0"
     nanoid "3.3.6"
