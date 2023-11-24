@@ -25,7 +25,7 @@
     "@tiptap/react": "2.1.12",
     "@tiptap/starter-kit": "2.1.12",
     "@tiptap/suggestion": "2.1.12",
-    "@upstash/ratelimit": "0.4.4",
+    "@upstash/ratelimit": "1.0.0",
     "@vercel/analytics": "1.1.1",
     "@vercel/blob": "0.9.3",
     "@vercel/kv": "1.0.0",
