@@ -886,10 +886,10 @@
   resolved "https://registry.yarnpkg.com/@tiptap/extension-bold/-/extension-bold-2.1.13.tgz#fb0c8916269be61269e4aef9d1da417daf52b7f1"
   integrity sha512-6cHsQTh/rUiG4jkbJer3vk7g60I5tBwEBSGpdxmEHh83RsvevD8+n92PjA24hYYte5RNlATB011E1wu8PVhSvw==
 
-"@tiptap/extension-bubble-menu@^2.1.13":
-  version "2.1.13"
-  resolved "https://registry.yarnpkg.com/@tiptap/extension-bubble-menu/-/extension-bubble-menu-2.1.13.tgz#884cd2e4e0c9586998baac3d0a14621b177f1859"
-  integrity sha512-Hm7e1GX3AI6lfaUmr6WqsS9MMyXIzCkhh+VQi6K8jj4Q4s8kY4KPoAyD/c3v9pZ/dieUtm2TfqrOCkbHzsJQBg==
+"@tiptap/extension-bubble-menu@^2.1.15":
+  version "2.1.15"
+  resolved "https://registry.yarnpkg.com/@tiptap/extension-bubble-menu/-/extension-bubble-menu-2.1.15.tgz#63eff32fad55475e2a204d9dbebfab881d134587"
+  integrity sha512-nHTeIYKruau6KL7fh1pvWBrzVXH1YE7S96RPPQ6dNwZjb9F3tXNVrIpPhR3Pafhy4LGHYvWYiZekc3Ir0dM4aQ==
   dependencies:
     tippy.js "^6.3.7"
 
@@ -923,10 +923,10 @@
   resolved "https://registry.yarnpkg.com/@tiptap/extension-dropcursor/-/extension-dropcursor-2.1.13.tgz#2e8908f2dec9e8e997a2f216a11d3b915fe062df"
   integrity sha512-NAyJi4BJxH7vl/2LNS1X0ndwFKjEtX+cRgshXCnMyh7qNpIRW6Plczapc/W1OiMncOEhZJfpZfkRSfwG01FWFg==
 
-"@tiptap/extension-floating-menu@^2.1.13":
-  version "2.1.13"
-  resolved "https://registry.yarnpkg.com/@tiptap/extension-floating-menu/-/extension-floating-menu-2.1.13.tgz#e12e6e73ee095319d4a723a9b46b8f7b1a9f4b1a"
-  integrity sha512-9Oz7pk1Nts2+EyY+rYfnREGbLzQ5UFazAvRhF6zAJdvyuDmAYm0Jp6s0GoTrpV0/dJEISoFaNpPdMJOb9EBNRw==
+"@tiptap/extension-floating-menu@^2.1.15":
+  version "2.1.15"
+  resolved "https://registry.yarnpkg.com/@tiptap/extension-floating-menu/-/extension-floating-menu-2.1.15.tgz#e95d4e63e2d4420b4c4900092945c28b3b405fc6"
+  integrity sha512-2qrRE2HpF2vgYK72+CbT6xrhlShw4dS2xPV6kuXaYuBHR7tiyeGusCg7CXr7mZxIdTVj/+nNj3GCtST/+A7d5w==
   dependencies:
     tippy.js "^6.3.7"
 
@@ -1051,13 +1051,13 @@
     prosemirror-transform "^1.7.0"
     prosemirror-view "^1.28.2"
 
-"@tiptap/react@2.1.13":
-  version "2.1.13"
-  resolved "https://registry.yarnpkg.com/@tiptap/react/-/react-2.1.13.tgz#ec5ebaf9babc145f3329030358b3c5e36016b908"
-  integrity sha512-Dq3f8EtJnpImP3iDtJo+7bulnN9SJZRZcVVzxHXccLcC2MxtmDdlPGZjP+wxO800nd8toSIOd5734fPNf/YcfA==
+"@tiptap/react@2.1.15":
+  version "2.1.15"
+  resolved "https://registry.yarnpkg.com/@tiptap/react/-/react-2.1.15.tgz#31b292bc7edd72caba6120830aaa63b974e72a4e"
+  integrity sha512-rbI2mGMxRdqBtGHb7cfSFvHy6UsibcjKqsFSbELrucrQ8/H1inHh5v5TlVYar0o9irzSH9CFGZae/7LIh6qerA==
   dependencies:
-    "@tiptap/extension-bubble-menu" "^2.1.13"
-    "@tiptap/extension-floating-menu" "^2.1.13"
+    "@tiptap/extension-bubble-menu" "^2.1.15"
+    "@tiptap/extension-floating-menu" "^2.1.15"
 
 "@tiptap/starter-kit@2.1.13":
   version "2.1.13"
