@@ -27,7 +27,7 @@
     "@tiptap/suggestion": "2.1.15",
     "@upstash/ratelimit": "1.0.0",
     "@vercel/analytics": "1.1.1",
-    "@vercel/blob": "0.9.3",
+    "@vercel/blob": "0.16.1",
     "@vercel/kv": "1.0.1",
     "ai": "2.2.31",
     "clsx": "2.1.0",
