@@ -970,10 +970,10 @@
   resolved "https://registry.yarnpkg.com/@tiptap/extension-italic/-/extension-italic-2.1.13.tgz#1e9521dea002c8d6de833d9fd928d4617623eab8"
   integrity sha512-HyDJfuDn5hzwGKZiANcvgz6wcum6bEgb4wmJnfej8XanTMJatNVv63TVxCJ10dSc9KGpPVcIkg6W8/joNXIEbw==
 
-"@tiptap/extension-link@2.1.15":
-  version "2.1.15"
-  resolved "https://registry.yarnpkg.com/@tiptap/extension-link/-/extension-link-2.1.15.tgz#1b31715fb238b545e889e3f8f86f94ee20e52512"
-  integrity sha512-mqjZws+8VyOl++pUeB2t4E/sCKhsxutLGVZY7yGRNdl30SfJirTf9hdcJRSpVkmI+9fiQ6Xnx081kCs7oaKZLw==
+"@tiptap/extension-link@2.1.16":
+  version "2.1.16"
+  resolved "https://registry.yarnpkg.com/@tiptap/extension-link/-/extension-link-2.1.16.tgz#cd4c57135c1c849e0dfdd2caa7eb060d9a7f90a8"
+  integrity sha512-QIXYwxHi2kKU2sqDXngTpggO4ZmLm4vMxDlbWT9so1iUPAqQJW2ZRbdygFYy1txirWcoaJKocPwSJemyAeUzmw==
   dependencies:
     linkifyjs "^4.1.0"
 
