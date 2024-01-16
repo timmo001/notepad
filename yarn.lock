@@ -871,10 +871,10 @@
     lodash.merge "^4.6.2"
     postcss-selector-parser "6.0.10"
 
-"@tiptap/core@2.1.15", "@tiptap/core@^2.1.13":
-  version "2.1.15"
-  resolved "https://registry.yarnpkg.com/@tiptap/core/-/core-2.1.15.tgz#c1245c47164b530059e07d666764728a02323fcd"
-  integrity sha512-bsSUOQ9/OrQ3O4OFrMzjbCcShwHUS0w71DZoZTkOElnUFK2fu6IjDh8kbZyIxMW+sWuvLK/KePLdHOKOl1l/3Q==
+"@tiptap/core@2.1.16", "@tiptap/core@^2.1.13":
+  version "2.1.16"
+  resolved "https://registry.yarnpkg.com/@tiptap/core/-/core-2.1.16.tgz#828dd34aa9f49574f1eb7b311c0d69b3a9aacf27"
+  integrity sha512-nKnV603UyzbcrqhCXTWxDN22Ujb4VNfmKkACms1JOMGo7BVARmMCp2nBsLW8fmgCxmf8AS0LXY63tU7ILWYc5g==
 
 "@tiptap/extension-blockquote@^2.1.13":
   version "2.1.13"
