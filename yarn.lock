@@ -1052,10 +1052,10 @@ agent-base@6:
   dependencies:
     debug "4"
 
-ai@2.2.31:
-  version "2.2.31"
-  resolved "https://registry.yarnpkg.com/ai/-/ai-2.2.31.tgz#bab1556adb4bd3107d6e7d9da7477bc6a85ada3c"
-  integrity sha512-WQH13RxP+RYo9IE/FX8foNQh9gcKO/dhl9OGy5JL2bHJVBlnugPmH2CYJWaRt+mvjXHaU8txB+jzGo/fbtH2HA==
+ai@2.2.32:
+  version "2.2.32"
+  resolved "https://registry.yarnpkg.com/ai/-/ai-2.2.32.tgz#f8bdd0954f8c68d733314947c67e04e52091deb9"
+  integrity sha512-bMQLulRiG5AkivgbToIZ63KDGlx0+Yhd2HxjiQjHceaNglk4gdTZ/oOmZwW2gW7Q3rFQWQAwPAlmx6ZLUInphw==
   dependencies:
     eventsource-parser "1.0.0"
     nanoid "3.3.6"
