@@ -575,10 +575,10 @@
     lodash.merge "^4.6.2"
     postcss-selector-parser "6.0.10"
 
-"@tiptap/core@2.2.2", "@tiptap/core@^2.2.2":
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/@tiptap/core/-/core-2.2.2.tgz#7664197dafee890a5f42ba03b50c202bdf1da761"
-  integrity sha512-fec26LtNgYFGhKzEA9+Of+qLKIKUxDL/XZQofoPcxP71NffcmpZ+ZjAx9NjnvuYtvylUSySZiPauY6WhN3aprw==
+"@tiptap/core@2.2.3", "@tiptap/core@^2.2.2":
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/@tiptap/core/-/core-2.2.3.tgz#54375c27bcca81901e5316e056147ce0cbc89ba6"
+  integrity sha512-0l3p1/cuaQk8XFf+Ft/ExbUjReGes5Iep7y4nuL/Fzi2S92DZzozY6cosXBHC/Xsqzn6zIkl/gnQTgmTvlmhCQ==
 
 "@tiptap/extension-blockquote@^2.2.2":
   version "2.2.2"
