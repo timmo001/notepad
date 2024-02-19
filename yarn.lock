@@ -997,10 +997,10 @@
   dependencies:
     crypto-js "^4.2.0"
 
-"@vercel/analytics@1.1.4":
-  version "1.1.4"
-  resolved "https://registry.yarnpkg.com/@vercel/analytics/-/analytics-1.1.4.tgz#33f3a220391c9454eafc90e8e69c7eb7ce0618c0"
-  integrity sha512-CVzw3SLcPSc31tRDLLqDGqWQCv6/ylpEZnW7AYMvtvRsO2Q8hmjBVOqvo2Ok6MZnYf262O8c86LB2K9vK1/ZbQ==
+"@vercel/analytics@1.2.1":
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@vercel/analytics/-/analytics-1.2.1.tgz#4e215a390b6373834dbe2420e72a9d8c5487d86f"
+  integrity sha512-ZB5gDPCQvHu0DcBbywIwMm5aY9mTV8mBl7Mmk8QD84JqBnuYbsNCDnnDuzblNjd82tDtRjAqruZ0mzNm6MAWpA==
   dependencies:
     server-only "^0.0.1"
 
