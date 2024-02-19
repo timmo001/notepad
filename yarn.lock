@@ -716,10 +716,10 @@
   resolved "https://registry.yarnpkg.com/@tiptap/extension-task-list/-/extension-task-list-2.2.3.tgz#2c66da51c5eb49371c34152f41a47079706b939d"
   integrity sha512-ruwJ//jPjIT60p42goqqApCYsjZHk+E15HajEycdpu9gOqEiVh/Hsn8z4g3ZYwgMF8SuyU4mm11K05xYtoG40A==
 
-"@tiptap/extension-text-style@2.2.2":
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/@tiptap/extension-text-style/-/extension-text-style-2.2.2.tgz#bc7313aea2b36b440805ce3a152f4ade74296b44"
-  integrity sha512-DFHWePJo35WZju1wRsOabYuHZPcGdbsQpPeW/8x3C9GAcIMIYP6+VpsU3pG0qclmMZ5rUbv9C8ROMmAdE2OhYw==
+"@tiptap/extension-text-style@2.2.3":
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/@tiptap/extension-text-style/-/extension-text-style-2.2.3.tgz#d524bc97f546b5e7102c5cc37efd6d671dd2d4e7"
+  integrity sha512-23OGAX0GFXY3CBlrsgqgWTw2G6RNPao4O8FV/Ryvo2ckSI58ITOgXQtt6pejk424RAFVolHUKob36VGfC7RRGw==
 
 "@tiptap/extension-text@^2.2.2":
   version "2.2.2"
