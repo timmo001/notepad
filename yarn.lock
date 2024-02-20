@@ -788,10 +788,10 @@
     "@tiptap/extension-strike" "^2.2.3"
     "@tiptap/extension-text" "^2.2.3"
 
-"@tiptap/suggestion@2.2.2":
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/@tiptap/suggestion/-/suggestion-2.2.2.tgz#a15b7fa53d6c173672357b80c2d5f217ec40806a"
-  integrity sha512-3Po78jqoWwYCYP9gMqO7bV5oV63cL1Y6KS1RzTVhBUTdpRoLc2rHCDPqbL9EqKBwyHeTrp37fjUz9T54/LBNpA==
+"@tiptap/suggestion@2.2.3":
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/@tiptap/suggestion/-/suggestion-2.2.3.tgz#d9286d53b0e37816628205a09035c344f6d46e7f"
+  integrity sha512-pMInbk8+rYNaCz4oT/uS498mxSGIJXU32mkXv7wdDqMT2nnZQ2AHtJDUtMuB1RX+DS4ll9vdzrKqQHSW5t2ybQ==
 
 "@tootallnate/once@2":
   version "2.0.0"
