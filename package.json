@@ -26,7 +26,7 @@
     "@tiptap/starter-kit": "2.2.3",
     "@tiptap/suggestion": "2.2.3",
     "@upstash/ratelimit": "1.0.1",
-    "@vercel/analytics": "1.2.1",
+    "@vercel/analytics": "1.2.2",
     "@vercel/blob": "0.9.3",
     "@vercel/kv": "1.0.1",
     "ai": "2.2.35",
