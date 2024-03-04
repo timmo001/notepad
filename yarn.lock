@@ -1064,10 +1064,10 @@ agent-base@6:
   dependencies:
     debug "4"
 
-ai@3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/ai/-/ai-3.0.0.tgz#04ae82ad64b0468384c3d79eb371e047ea30ed9a"
-  integrity sha512-m/b1qqhA8/6kpDE4OSprEtZLTL7qLD72Z0O5Xd93ivC2uca02Bh5WEm2WebGO/lgsa9/LO9BC9LaWXj2Fo9quQ==
+ai@3.0.4:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/ai/-/ai-3.0.4.tgz#ee6738fcc2700b03799c85ab564f4f0c5bf851c7"
+  integrity sha512-DsQwPbOszx58iPag+vujQKv5idl4Y7tHyJSPCeCchDfJ67Ipf/++h4oiDWsKT+U3ibPFrT8xmHel6oRJF+0uMQ==
   dependencies:
     eventsource-parser "1.0.0"
     jsondiffpatch "^0.6.0"
