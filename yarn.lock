@@ -3044,10 +3044,10 @@ lru-cache@^6.0.0:
   resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-10.1.0.tgz#2098d41c2dc56500e6c88584aa656c84de7d0484"
   integrity sha512-/1clY/ui8CzjKFyjdvwPWJUYKiFVXG2I2cY0ssG7h4+hwk+XOIX7ZSG9Q7TW8TW3Kp3BUSqgFWBLgL4PJ+Blag==
 
-lucide-react@0.350.0:
-  version "0.350.0"
-  resolved "https://registry.yarnpkg.com/lucide-react/-/lucide-react-0.350.0.tgz#78b45342f4daff4535290e37b1ea7eb0961a3dab"
-  integrity sha512-5IZVKsxxG8Nn81gpsz4XLNgCAXkppCh0Y0P0GLO39h5iVD2WEaB9of6cPkLtzys1GuSfxJxmwsDh487y7LAf/g==
+lucide-react@0.355.0:
+  version "0.355.0"
+  resolved "https://registry.yarnpkg.com/lucide-react/-/lucide-react-0.355.0.tgz#b3d34d21413260a1b8a8d3a9b4489d70a81cf00a"
+  integrity sha512-xxnv0DCFSZ9T7fovNbQtpD5aPxwIcqJhQPD4AMfdol8AmM98WGKxWL/PI2NU9+jeBEtXFzEQKcdO6jCiDJ5TZw==
 
 make-error@^1.3.6:
   version "1.3.6"
