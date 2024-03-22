@@ -40,7 +40,7 @@
     "react-dom": "18.2.0",
     "sonner": "1.4.41",
     "tailwind-merge": "2.2.2",
-    "tiptap-markdown": "0.8.9",
+    "tiptap-markdown": "0.8.10",
     "use-debounce": "10.0.0"
   },
   "devDependencies": {
