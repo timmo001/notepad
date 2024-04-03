@@ -963,10 +963,10 @@
   dependencies:
     "@upstash/redis" "^1.28.3"
 
-"@upstash/ratelimit@1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@upstash/ratelimit/-/ratelimit-1.0.1.tgz#4dcbd5955f903511b2537e218d4d5258878ec63d"
-  integrity sha512-G9LZ7idhlkuYknbUngCB3qzd7QnkK1xDkFG5jRtEJZuOUS5UKJ0UTKbhalCtp39eX2wu2Ubv8W7HCeaJQOWM0A==
+"@upstash/ratelimit@1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@upstash/ratelimit/-/ratelimit-1.0.3.tgz#77e0fb1ebd8d94cf56d6c1479917b56b7a0e0924"
+  integrity sha512-uaws/6Ar28TICm61wfIbL4Ba91WYtIfl6HMj0PNJ0H/nm0SSXwVbCxPEiX9aXa41gMlVWujaJcOreqIuO8/mqg==
   dependencies:
     "@upstash/core-analytics" "^0.0.7"
 
