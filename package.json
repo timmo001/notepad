@@ -41,7 +41,7 @@
     "sonner": "1.4.41",
     "tailwind-merge": "2.2.2",
     "tiptap-markdown": "0.8.10",
-    "use-debounce": "10.0.0"
+    "use-debounce": "10.0.2"
   },
   "devDependencies": {
     "@tailwindcss/typography": "0.5.12",
